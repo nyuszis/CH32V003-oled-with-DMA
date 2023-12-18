@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "RISC-V",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "ch32v003fun"
+                
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "c:\\Program Files\\SysGCC\\bin\\riscv64-unknown-elf-g++.exe", 
+            "windowsSdkVersion": "8.1",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-arm"
+        }
+    ],
+    "version": 4
+}
